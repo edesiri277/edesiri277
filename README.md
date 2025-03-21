@@ -1,12 +1,17 @@
-- 👋 Hi, I’m edesiri
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning website development
-- 💞️ I’m looking to collaborate on creating website for people
-- 📫 How to reach me via email:edesiriavwarute@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Avwarute Edesiri! 👋
 
-<!---
-edesiri277/edesiri277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 🚀
+
+I'm a passionate Front-end designer with experience in html, css, bootstrap and javascript. I enjoy developing code that solves complex problems and enhances both businesses and daily life. I'm passionate about learning new skills and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Back-end development
+- 🌍 Languages: I am a native English speaker
+- 📫 How to reach me: edesiriavwarute@gmail.com
+- ⚡ Fun fact: I derive joy when i able to solve a problem from coding
+
+## My Skills 🧠
+
+HTML
+CSS
+BootStrap
+JavaScript
